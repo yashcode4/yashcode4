@@ -21,19 +21,15 @@ Here are some ideas to get you started:
 
 I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
-- 📫 How to reach me **yash124987@gmail.com**
-
-- ⚡ Fun fact **I like to draw realistic sketching and painting.**
-
-- My website - https://yashkumar4.netlify.app/
-
 ## 🔗 Connect with me:
 
-<a href="yashkumar124987@gmail.com" target="_blank"> <img src="https://img.icons8.com/?size=50&id=X0mEIh0RyDdL&format=png"/> </a>
+<a href="mailto:yashkumar124987@gmail.com" target="_blank"> <img src="https://img.icons8.com/?size=50&id=X0mEIh0RyDdL&format=png"/> </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yash-kumar-yk/" target="_blank"> <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png"/> </a>
 &nbsp;&nbsp;
 <a href="https://yashkumar4.netlify.app/" target="_blank"> <img src="https://img.icons8.com/?size=50&id=VJz2Ob51dvZJ&format=png"/> </a>
+&nbsp;&nbsp;
+<a href="https://github.com/yashcode4" target="_blank"> <img src="https://img.icons8.com/?size=50&id=iEBcQcM9rnZ9&format=png"/> </a>
 
 ## 🚀 Languages and Tools:
 
