@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Web And UI/Ux Designer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
+I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends :)
 
 - 📫 How to reach me **yash124987@gmail.com**
 
