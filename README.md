@@ -44,7 +44,8 @@ I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested
     <a href="https://expressjs.com" target="_blank"> <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="45" height="45"/> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="aws" width="45" height="45"/> </a>
     <a href="https://www.wix.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/wix-icon-436x512-sdy6ffpo.png" alt="wix" width="45" height="45"/> </a>
-    <a href="https://wordpress.org/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=13664&format=png" alt="wordpress" width="48" height="48"/> </a>
+    <a href="https://wordpress.org/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=13664&format=png" alt="wordpress" width="50" height="50"/> </a>
+    <a href="https://wordpress.org/" target="_blank"> <img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.12.0/1694428190244/Microsoft.VisualStudio.Services.Icons.Default" alt="thunderclient" width="45" height="45"/> </a>
 </p>
 
 
