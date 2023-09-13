@@ -29,7 +29,7 @@ I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested
 &nbsp;&nbsp;
 <a href="https://yashkumar4.netlify.app/" target="_blank"> <img src="https://img.icons8.com/?size=50&id=VJz2Ob51dvZJ&format=png"/> </a>
 &nbsp;&nbsp;
-<a href="https://github.com/yashcode4" target="_blank"> <img src="https://img.icons8.com/?size=50&id=iEBcQcM9rnZ9&format=png"/> </a>
+<a href="https://github.com/yashcode4" target="_blank"> <img src="https://img.icons8.com/?size=80&id=iEBcQcM9rnZ9&format=png"/> </a>
 
 ## 🚀 Languages and Tools:
 
