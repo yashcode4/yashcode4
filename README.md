@@ -43,6 +43,7 @@ I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested
 ![React](https://img.shields.io/badge/vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/netlify-00C7B7?logo=netlify&logoColor=black&textColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/vscode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 
 
 <br/>
