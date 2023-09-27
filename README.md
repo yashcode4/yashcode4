@@ -31,6 +31,9 @@ I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested
 ![React](https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/nodedotjs-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/express-000000?logo=express&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/wix-0C6EFC?logo=wix&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/wordpress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 
 
 <br/>
