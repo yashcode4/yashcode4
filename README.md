@@ -24,32 +24,17 @@ I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested
 
 ## 🔗 Connect with me:
 
-<a href="mailto:yashkumar124987@gmail.com" target="_blank"> <img src="https://img.icons8.com/?size=50&id=X0mEIh0RyDdL&format=png"/> </a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yash-kumar-yk/" target="_blank"> <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png"/> </a>
-&nbsp;&nbsp;
-<a href="https://yashkumar4.netlify.app/" target="_blank"> <img src="https://img.icons8.com/?size=50&id=VJz2Ob51dvZJ&format=png"/> </a>
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="45" height="45"/> </a>
-    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="aws" width="45" height="45"/> </a>
-    <a href="https://www.wix.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/wix-icon-436x512-sdy6ffpo.png" alt="wix" width="45" height="45"/> </a>
-    <a href="https://wordpress.org/" target="_blank"> <img src="https://img.icons8.com/?size=45&id=13664&format=png" alt="wordpress" width="50" height="50"/> </a>
-    <a href="https://wordpress.org/" target="_blank"> <img src="https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.12.0/1694428190244/Microsoft.VisualStudio.Services.Icons.Default" alt="thunderclient" width="45" height="45"/> </a>
-</p>
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
 
 <br/>
