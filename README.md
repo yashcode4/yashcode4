@@ -43,6 +43,9 @@ I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&textColor=black&style=flat-square)
 ![Vscode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=flat-square)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat-square)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat-square)
 
 
 <br/>
