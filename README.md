@@ -40,6 +40,10 @@ I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested
 ![React](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/amazon-FF9900?logo=amazon&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/vercel-000000?logo=vercel&logoColor=white&style=for-the-bad)
+![React](https://img.shields.io/badge/netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/vscode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 
 <br/>
