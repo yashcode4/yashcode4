@@ -24,9 +24,9 @@ I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested
 
 ## 🔗 Connect with me:
 
-<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a>
-<a href="https://github.com/thmsgbrt" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
-<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-0076D6?logo=internetexplorer&logoColor=white&style=flat-square" /></a>
+<a href="https://github.com/yashcode4" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" /></a>
+<a href="https://www.linkedin.com/in/yash-kumar-yk/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
+<a href="https://yashkumar4.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-0076D6?logo=internetexplorer&logoColor=white&style=flat-square" /></a>
 
 ## 🚀 Languages and Tools:
 
