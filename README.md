@@ -24,6 +24,14 @@ I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested
 
 ## 🔗 Connect with me:
 
+<a href="mailto:yashkumar124987@gmail.com" target="_blank"> <img src="https://img.icons8.com/?size=50&id=X0mEIh0RyDdL&format=png"/> </a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yash-kumar-yk/" target="_blank"> <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png"/> </a>
+&nbsp;&nbsp;
+<a href="https://yashkumar4.netlify.app/" target="_blank"> <img src="https://img.icons8.com/?size=50&id=VJz2Ob51dvZJ&format=png"/> </a>
+
+## 🚀 Languages and Tools:
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
