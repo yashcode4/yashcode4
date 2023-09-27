@@ -34,6 +34,12 @@ I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested
 ![React](https://img.shields.io/badge/express-000000?logo=express&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/wix-0C6EFC?logo=wix&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/wordpress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
 
 <br/>
