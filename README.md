@@ -24,7 +24,9 @@ I'm a passionate Full Stack Web Developer And UI/Ux Designer and I am interested
 
 ## 🔗 Connect with me:
 
-<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+![Github]<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+![LinkedIn]<a href="https://github.com/thmsgbrt" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+![Website]<a href="https://github.com/thmsgbrt" target="_blank"><img alt="Website" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 ## 🚀 Languages and Tools:
 
